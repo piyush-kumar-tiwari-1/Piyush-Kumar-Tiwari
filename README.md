@@ -15,7 +15,7 @@ Here are some tools, languages, and frameworks that I use regularly:
 
 ## 📫 Connect with Me
 I'm always open to collaborations, learning, and discussions about cybersecurity. Reach out if you'd like to connect!
-- **LinkedIn:** [piyushkumartiwari](#)
+- **LinkedIn:** [piyush-kumar-tiwari](#)
 - **Email:** [piyushkumarpk3943945@gmail.com](mailto:piyushkumarpk3943945@gmail.com)
 
 Feel free to explore, fork, and contribute to any projects here. Your feedback and suggestions are highly valued!
